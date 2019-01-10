@@ -108,7 +108,7 @@ font-size: 0.8em;
         .style("z-index", "10")
         .style("opacity", 0);
     // Get the data from our JSON file
-    d3.json("https://github.com/cihanoklap/cihanoklap.github.io/blob/master/_posts/data.json", function(error, nodeData) {
+    d3.json("/js/data.json", function(error, nodeData) {
         if (error) throw error;
         allNodes = nodeData;
         var showNodes = JSON.parse(JSON.stringify(nodeData));
