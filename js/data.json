@@ -1,0 +1,50 @@
+{
+    "name": "MQM", "children": [{
+        "name": "Technical",
+        "fullname": "Technical",
+        "description": "Learning tools that facilitate data analysis",
+        "children": [{"name": "Data Infrastructure", "fullname": "Data Infrastructure", "size": 1, "description": "The fundamentals of data storage, cleansing, and retrieval"},
+            {"name": "Applied Probability & Stats", "fullname": "Applied Probability and Statistics", "size": 1, "description": "Probabilistic and statistical tools for understanding, analyzing, and interpreting data"},
+            {"name": "Data Science","fullname": "Data Science for Business", "size": 1, "description": "Supervised and unsupervised machine learning techniques such as classification, clustering, and text mining"},
+            {"name": "Decision Analytics","fullname": "Decision Analytics and Modeling", "size": 1, "description": "Decision trees for structuring decision problems under uncertainty, Monte Carlo simulation, and optimization for finding the best possible solution among many decision variables"},
+            {"name": "Data Visualization","fullname": "Data Visualization", "size": 1, "description": "Explore techniques to effectively communicate information about data using graphical means. You will utilize popular data visualization tool Tableau"},
+            {"name": "Ethical Issues of Analytics","fullname": "Legal and Ethical Issues of Data Analytics", "size": 0.75, "description": "Privacy, surveillance, security, classification, discrimination, decisional-autonomy, and duties to warn or act."}]
+    }, {
+        "name": "Business", "fullname": "Business",
+        "description": "Knowing the right questions to ask and presenting insights effectively",
+        "children": [{"name": "Bus. Communication 1-2","fullname": "Business Communication 1-2", "size": 2, "description": "Building your foundation in effective communication in a business setting"},
+            {"name": "Business Fundamentals","fullname": "Business Fundamentals", "size": 1, "description": "A wide range of principles in Accounting, Finance, Marketing, and Strategy"},
+            {"name": "Critical Thinking","fullname": "Critical Thinking", "size": 0.5, "description": "To ask good questions and explore data from multiple perspectives"},
+            {"name": "Collaboration","fullname": "Communication and Collaboration", "size": 0.5, "description": "To tackle today’s problems in teams where members differ in expertise and specialization"},
+            {"name": "Navigating Organizations", "fullname": "Navigating Organizations", "size": 1, "description": "To provide a roadmap for understanding how organizations function"}]
+    }, {
+        "name": "Marketing","fullname": "Marketing",
+        "description": "Learning to use customer data to inform and support marketing initiatives", "children":[
+            {"name": "Digital Marketing","fullname": "Digital Marketing", "size": 1, "description": "Ad networks and media buying, campaign performance measurement,attribution, e-commerce, and multi-channel marketing"},
+            {"name": "Market Intelligence","fullname": "Market Intelligence", "size": 1, "description": "Analyzing data to understand customers and inform marketing decisions, evaluate the quality and usefulness of available data and analyses"},
+            {"name": "CRM","fullname": "Customer Relationship Management", "size": 1, "description": "The stages of the customer lifecycle and the revenue and profit stream, quantitative methods to improve the effectiveness of customer relationship management (CRM) activities"},
+            {"name": "Pricing","fullname": "Pricing", "size": 1, "description": "Quantitative tools used to formulate pricing strategy consistent with the firm’s marketing strategy, and how to formulate pricing tactics"}]
+    }, {
+        "name": "Finance", "fullname": "Finance",
+        "description": "Learning quantitative finance skills you can use in your planned career", "children":[
+            {"name": "Introductory Finance","fullname": "Introductory Finance", "size": 1, "description": "Basic concepts in finance—discounting, equities, bonds, portfolio diversification, the capital asset pricing model (CAPM), and the weighted average cost of capital (WACC)"},
+            {"name": "Intermediate Finance","fullname": "Intermediate Finance", "size": 1, "description": "Key concepts in portfolio management including mutual funds, multifactor models, asset classes and capital budgeting, hedge funds, and private equity"},
+            {"name": "Derivatives","fullname": "Derivatives", "size": 1, "description": "Covering linear instruments including forward, futures, and swaps; nonlinear instruments such as options; and corporate finance and risk management applications of both types of instruments."},
+            {"name": "Fixed Income Securities","fullname": "Fixed Income Securities", "size": 1, "description": "Key concepts in fixed income securities, interest rate risk management, fed funds and monetary policy, term structure modeling, continuous time modeling, and no arbitrage modeling."},
+            {"name": "Fin. Risk Management","fullname": "Financial Risk Management", "size": 1, "description": "The main concepts of financial risk management for banks and asset managers, including risk management for banks"}]
+    }, {
+        "name": "Strategy","fullname": "Strategy",
+        "description": "Learning to use quantitative data to support strategic initiatives in an organization", "children":[
+            {"name": "Empirical Economics","fullname": "Empirical Economic Analysis", "size": 1, "description": "Identify and empirically analyze a variety of economic models, focusing on underlying causal forces"},
+            {"name": "Operations Analytics","fullname": "Operations Analytics", "size": 1, "description": "Techniques to understand and improve a firm’s operational capabilities, including Process Analytics and Supply Chain Analytics"},
+            {"name": "Strategic Management","fullname": "Strategic Management", "size": 1, "description": "Broad issues faced by management including industry analysis, corporate strategy, estimating learning curves, project management, organizational form, and incentives."},
+            {"name": "People Analytics","fullname": "People Analytics","size": 1, "description": "Prescriptive analytics techniques to understand a firm's organizational processes, including diversity analytics, predicting employee turnover & performance, and recruitment analytics"}]
+    }, {
+        "name": "Forensics","fullname": "Forensics",
+        "description": "Learning to use operational data to determine if a firm’s processes are effectively achieving the firm’s objectives", "children":[
+            {"name": "Financial Reporting","fullname": "Financial Reporting Foundations", "size": 1, "description": "Difficult and complex judgments and estimates, and be able to use the FASB’s Codification of US GAAP to identify and interpret authoritative guidance"},
+            {"name": "Fin. Statement Fraud","fullname": "Financial Statement Fraud", "size": 1, "description": "Fraudulent financial reporting, including the identification of fraud schemes and analytical techniques in uncovering fraud in financial reports"},
+            {"name": "Managing Risks","fullname": "Managing Operational and Informational Risks", "size": 1, "description": "Learning the concepts of Enterprise Risk Management, Internal Control, and Fraud Deterrence"},
+            {"name": "Fraud Analytics","fullname": "Fraud Analytics", "size": 1, "description": "Quantitative techniques to identify and prevent potentially fraudulent behavior"}
+        ]}]
+}
